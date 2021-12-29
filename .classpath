@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_20"/>
+	<classpathentry kind="lib" path="E:/jars/servlet-api.jar" sourcepath="E:/jars/servlet-api-2.5-sources.jar"/>
+	<classpathentry kind="lib" path="E:/jars/ojdbc5.jar"/>
+	<classpathentry kind="lib" path="E:/jars/activation.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
